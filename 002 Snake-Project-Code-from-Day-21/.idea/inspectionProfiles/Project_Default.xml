@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.forward" />
+          <option value="list.backward" />
+          <option value="list.left" />
+          <option value="list.right" />
+          <option value="int.forward" />
+          <option value="int.backward" />
+          <option value="int.movement" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
